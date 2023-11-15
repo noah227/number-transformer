@@ -1,19 +1,7 @@
-# number-transformer
+适用于不适合直接发数字的地方。比如发QQ号之类的。
 
-## Project setup
-```
-npm install
-```
+转符号 转罗马体 转汉字（简 | 繁）
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+同时支持逆转
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+cookie缓存
